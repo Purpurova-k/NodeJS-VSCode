@@ -18,8 +18,9 @@
     "url": "https://github.com/Purpurova-k/NodeJS-VSCode/issues"
   },
   "homepage": "https://github.com/Purpurova-k/NodeJS-VSCode#readme",
-  "dependencies": {
+  "devDependencies": {
     "eslint": "^8.14.0",
+    "eslint-plugin-import": "^2.26.0",
     "prettier": "^2.6.2"
   }
 }
